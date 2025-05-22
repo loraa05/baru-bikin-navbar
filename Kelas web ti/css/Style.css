@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.jumbotron{
+    background-color: beige;
+}
+
+.jumbotron .col:nth-child(1) img{
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+}
